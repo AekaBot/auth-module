@@ -37,6 +37,10 @@ $ yarn install
 $ yarn dev
 ```
 
+## Note
+
+This custom version was made to fix a problem that might not be present for other users. I'm not sure why you're even reading this actually.
+
 ## License
 
 [MIT License](./LICENSE) - Copyright (c) Nuxt Community
