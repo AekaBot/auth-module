@@ -55,8 +55,8 @@
     "@nuxtjs/toast": "^3.2.1",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-decorators-legacy": "^1.3.5",
-    "bootstrap-vue": "^2.0.1",
-    "codecov": "^3.5.0",
+    "bootstrap-vue": "^2.0.2",
+    "codecov": "^3.6.1",
     "cookie-parser": "^1.4.4",
     "eslint": "^6.4.0",
     "eslint-config-standard": "^14.1.0",
@@ -71,7 +71,7 @@
     "jest": "^24.9.0",
     "jsdom": "^15.1.1",
     "nuxt-class-component": "^1.3.0",
-    "nuxt-edge": "^2.10.0-26144655.e9c4bcfe",
+    "nuxt-edge": "^2.10.0-26150413.e9c4bcfe",
     "puppeteer": "^1.20.0",
     "standard-version": "^7.0.0"
   }
